@@ -370,3 +370,15 @@ padding: 0 2rem ;
     box-shadow: 5px 5px 10px yellow;
     text-shadow: none;
     }
+    .form-submit-button2:hover {
+        background: #dec842;
+        color: yellow;
+        border: 2px solid yellow;
+        border-radius: 25px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-block: 10px;
+        white-space: normal;
+        box-shadow: 5px 5px 10px yellow;
+        text-shadow: none;
+        }                                                                                                                                               {
